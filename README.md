@@ -1,1 +1,1 @@
-# stm18-terraform
+# EPAM LEARN Terraform
